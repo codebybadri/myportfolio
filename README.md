@@ -1,2 +1,2 @@
 # myportfolio
-A responsive portfolio website with a contemporary Bento Grid design implemented using HTML5 and CSS3. The website employs the use of CSS Grid Template Areas to develop a dark-themed UI design that can seamlessly transition from a desktop grid layout to a mobile stack layout
+A responsive personal portfolio website with a contemporary Bento Grid design. This HTML5 website, designed using pure CSS3, incorporates the use of CSS Grid Template Areas to achieve a modular, bento-box design for the desktop version, which can easily transition into a vertical stack design for mobile devices. Some of its notable features include a dark-themed UI, hover animations, a pulsing ‘Open to Work’ status indicator, and map integration
